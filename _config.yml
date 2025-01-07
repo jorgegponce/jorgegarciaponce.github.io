@@ -156,7 +156,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - google1234567890abcdef.html
+  - google745bf4e0791c3cf5.html
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
