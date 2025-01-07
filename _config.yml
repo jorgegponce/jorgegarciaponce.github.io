@@ -24,7 +24,7 @@ author:
   avatar           : "profile_picture.jpg"
   name             : "Jorge García Ponce"
   pronouns         : # example: "she/her"  
-  bio              : "Quantum Information Enthusiast"
+  bio              : "Physics and Mathematics Undergraduate at Harvard University | Class of 2025"
   location         : "Cambridge, MA"
   employer         : "Harvard University"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ihZBpucAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/jorge-garcía-ponce-33a8aa210/
+  linkedin         : jorge-garcía-ponce-33a8aa210
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
